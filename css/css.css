@@ -1,0 +1,73 @@
+body
+{
+    background-image: url(../imagens/background.jpg);
+    background-repeat: no repeat;
+    background-size:100% 100%;
+}
+#rod1.mx-auto a img:hover
+{
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+#rod2.mx-auto a img:hover
+{
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+#rod3.mx-auto a img:hover
+{
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+#conteudo
+{
+    
+    background-color: #fff;
+    
+}
+#conteudo img
+{
+    width: 100%;
+}
+#inscricoes
+{
+    background-image: url(../imagens/inscFundo.jpg);  
+    background-repeat: no repeat;
+    background-size:100% 100%;
+}
+
+.insc:hover
+{
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  
+}
+.parceiro
+{
+    background-image: url(../imagens/fatec.jpg);    
+    background-repeat: no repeat;
+    background-size:100% 100%;
+}
+.program
+{
+    text-align: justify;
+    font-family: Helvetica, Verdana, sans-serif; 
+    font-size: 16pt; 
+    color: #8D8D8D;    
+}
+tr, td
+{
+    padding: 1% 0 1% 0;
+}
